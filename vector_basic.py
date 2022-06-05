@@ -1,7 +1,6 @@
 # Author @moisestf22  
 import math
 import random
-from unittest import result
 
 class Vector():
     def __init__(self, dim, rand = False):
